@@ -6,7 +6,7 @@
 [![Forks](https://img.shields.io/github/forks/iRB-Lab/py-ga-VRPTW.svg?style=social&label=Fork)][fork]
 
 # py-ga-VRPTW
-A Python Implementation of a Genetic Algorithm-based Solution to Vehicle Routing Problem with Time Windows (VRPTW)
+A Python Implementation of a Genetic Algorithm-based Solution to Vehicle Routing Problem with Time Windows (VRPTW).
 
 ## Important Notes
 ### Project Origin (Backstory)
